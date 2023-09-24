@@ -8,14 +8,10 @@
 - [Encrypting Images](https://proton.me/blog/how-to-encrypt-images#:~:text=You%20can%20encrypt%20a%20JPEG,only%20you%20can%20access%20it.)
 - [Nessus setup and solving CTF of Tryhackme](https://kevinnshah.blogspot.com/2023/09/mastering-nessus-setup-and-conquering.html)
 
-<h2> Certification :</h2>
+  <h2> Certification :</h2>
 - [NSE 1 Network Security Associate](https://www.linkedin.com/in/kevinntech/)
-- []()
 - [ISC2 Cyber Security](https://www.linkedin.com/in/kevinntech/)
 - [Gurugram Police Cyber Security Summer Internship 2021](https://www.linkedin.com/in/kevinntech/)
-
-
-
 
 
 <h2> 🤳 Connect with me:</h2>
