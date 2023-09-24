@@ -9,6 +9,9 @@
 - [Nessus setup and solving CTF of Tryhackme](https://kevinnshah.blogspot.com/2023/09/mastering-nessus-setup-and-conquering.html)
 
 <h2> Certification :</h2>
+- [NSE 1 Network Security Associate](https://www.linkedin.com/in/kevinntech/)
+- [ISC2 Cyber Security](https://www.linkedin.com/in/kevinntech/)
+- [Gurugram Police Cyber Security Summer Internship 2021](https://www.linkedin.com/in/kevinntech/)
 
 
 
