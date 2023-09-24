@@ -8,12 +8,17 @@
 - [Encrypting Images](https://proton.me/blog/how-to-encrypt-images#:~:text=You%20can%20encrypt%20a%20JPEG,only%20you%20can%20access%20it.)
 - [Nessus setup and solving CTF of Tryhackme](https://kevinnshah.blogspot.com/2023/09/mastering-nessus-setup-and-conquering.html)
 
+<h2> Certification :</h2>
+
+
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_400x400.jpg" />][X]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://pbs.twimg.com/profile_images/1526231349354303489/3Bg-2ZsT_400x400.jpg" />][instagram]
 
 [X]: https://twitter.com/KEVINN_TECH
 [instagram]: https://www.instagram.com/kevinn_tech/
